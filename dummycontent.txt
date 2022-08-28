@@ -1,0 +1,10 @@
+hello simple
+
+feature edit
+
+
+
+master changes
+=======
+feature merge data
+
